@@ -15,4 +15,4 @@ A lightweight lab inventory tracker built for NIE labs to record component stock
 - GitHub (Repository & Version Control)
 - JavaScript (`localStorage` for data persistence)
 - AI Assistance (Used for structuring modular code and documentation)
--
+
