@@ -1,7 +1,6 @@
 
 
-set FLASK_APP=main.py
-flask run
+
 fastapi
 uvicorn[standard]
 Flask==3.1.0
