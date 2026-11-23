@@ -5,3 +5,4 @@ Flask-cors==5.0.0
 Flask-sqlalchemy==3.1.1
 python-dotenv==1.0.1
 pytest==8.3.4
+
